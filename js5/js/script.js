@@ -14,8 +14,6 @@ const result7 = document.querySelector('#resultSeventhExecise')
 
 const result8 = document.querySelector('#resultEigthExecise')
 
-const result9 = document.querySelector('#resultNinthExecise')
-
 const sb = document.querySelector('#w-select')
 
 const etherium = {
